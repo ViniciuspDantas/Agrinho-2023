@@ -185,6 +185,8 @@ main{
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
   text-align: center;
+  bottom: 0;
+  position: absolute;
   
 }
 
