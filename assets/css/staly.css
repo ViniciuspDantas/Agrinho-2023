@@ -159,7 +159,7 @@
 
 /* INICIO DO MAIN */
 main{
-/*  height: 46rem;*/
+height: 100vh;
 flex: 1 1 0;
 }
 
