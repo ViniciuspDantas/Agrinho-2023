@@ -31,14 +31,14 @@ line-height: 56px;3
 }
 
 .turma .aluno h4{
-color: aqua;
+color: black;
 font-weight: 700;
 margin-bottom: 2px;
 font-size: 18px;
 }
 
 .turma .aluno span {
-  color:aqua;
+  color:black;
   font-size: 13px;
   font-weight: 700;
   font-style: italic;
