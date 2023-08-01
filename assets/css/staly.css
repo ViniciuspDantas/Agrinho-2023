@@ -77,13 +77,13 @@
   background-color: #FF8C00;
   padding: 15px 15px;
   margin: 0 1.5rem;
-  border-radius: 10px;
+  border-radius: 15px;
   text-transform: uppercase;
 }
 
 .contato-button button a {
   text-decoration: none;
-  color: #9adcff;
+  color: #7cd0fd;
   font-weight: 500;
 }
 
