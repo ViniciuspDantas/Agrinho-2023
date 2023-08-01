@@ -96,7 +96,7 @@
 }
 
 #nav-link.active, .nav-link:hover{
-  background:#000000;
+  background:#7cd0fd;
   transition: 0.5s;
   padding: 0.5rem 0.4rem;
 }
