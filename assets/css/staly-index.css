@@ -59,7 +59,8 @@ background: #ffffff00;
   border-radius: 20px;
   overflow: hidden;
   position: absolute;
-  margin: auto 0 0 0;
+  top: 22rem;
+  left: 25rem;
   box-shadow: 10px 10px 5px 0px rgb(0, 0, 0, 0.75);
 }
 
