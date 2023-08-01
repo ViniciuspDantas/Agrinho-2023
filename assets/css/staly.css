@@ -83,7 +83,7 @@
 
 .contato-button button a {
   text-decoration: none;
-  color: #1d1b1b;
+  color: #9adcff;
   font-weight: 500;
 }
 
@@ -96,7 +96,7 @@
 }
 
 #nav-link.active, .nav-link:hover{
-  background:black;
+  background:#9adcff;
   transition: 0.5s;
   padding: 0.5rem 0.4rem;
 }
