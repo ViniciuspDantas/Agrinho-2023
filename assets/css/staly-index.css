@@ -58,9 +58,9 @@ background: #ffffff00;
   border-radius: 20px;
   overflow: hidden;
   position: absolute;
-  right: 10%;
+  right: 8%;
   left: 50%;
-  transform: translate(-50%, -10%);
+  transform: translate(-50%, -8%);
   box-shadow: 10px 10px 5px 0px rgb(0, 0, 0, 0.75);
 }
 
