@@ -96,7 +96,7 @@
 }
 
 #nav-link.active, .nav-link:hover{
-  background:#d3d3d3;
+  background:#555;
   transition: 0.5s;
   padding: 0.5rem 0.4rem;
   border-radius: 15px;
