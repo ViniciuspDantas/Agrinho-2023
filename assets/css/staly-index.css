@@ -70,9 +70,7 @@ background: #ffffff00;
 
 .navegacao{
   position: absolute;
-  bottom: 160px;
-  left: 25%;
-  top: 500px;
+margin: auto 0 0;
   display: flex;
 }
 
