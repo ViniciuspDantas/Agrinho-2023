@@ -69,7 +69,7 @@ background: #ffffff00;
 }
 
 .navegacao{
-  position: absolute;
+  position: relative;
 align-items: center;
   display: flex;
 }
