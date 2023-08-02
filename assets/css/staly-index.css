@@ -134,8 +134,8 @@ margin-left: 0;
   position: absolute;
   bottom: 160px;
   left: 600px;
-  right: 0px;
-
+  top: 0px;
+  display: flex;
 }
 
 .navegacao-auto div:not(:last-child), .bar:not(:last-child){
