@@ -58,8 +58,10 @@ background: #ffffff00;
   border-radius: 20px;
   overflow: hidden;
   position: relative;
-  right: 10%;
-  left: 25%;
+  right: 50%;
+  left: 50%;
+  margin-left: 350px;
+  margin-top: 125px;
   box-shadow: 10px 10px 5px 0px rgb(0, 0, 0, 0.75);
 }
 
