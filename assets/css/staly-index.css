@@ -69,8 +69,10 @@ background: #ffffff00;
 }
 
 .navegacao{
-  position: relative;
-align-items: center;
+  position: absolute;
+  bottom: 160px;
+  left: 25%;
+  top: 500px;
   display: flex;
 }
 
