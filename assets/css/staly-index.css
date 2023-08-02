@@ -135,7 +135,7 @@ margin-left: 0;
   bottom: 160px;
   left: 600px;
   right: 0px;
-  display: flex;
+
 }
 
 .navegacao-auto div:not(:last-child), .bar:not(:last-child){
