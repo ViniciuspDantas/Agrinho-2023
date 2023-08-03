@@ -68,7 +68,7 @@ form .button:hover {
 
 /*obrigado*/
 
-.main{
+.main{position: absolute;
     display: flex;
     align-items: center;
     justify-content: center;
