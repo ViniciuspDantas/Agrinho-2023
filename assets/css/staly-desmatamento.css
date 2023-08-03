@@ -19,7 +19,9 @@
     margin: 1.2rem 1.2rem 1.2rem 1.2rem;
 }
 
-
+b {
+  font-weight: bold;
+}
 
 .mapa {
   align-items: center;
