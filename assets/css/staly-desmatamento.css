@@ -22,11 +22,8 @@ b {
   font-weight: bold;
 }
 
-
-
-
-.mapa {
-  left: 660px;
-  top: 990px;
-  position: absolute;
+.Mapa-desmatamento{
+  display: flex;
+  width: 500%;
+  height: 100%;
 }
