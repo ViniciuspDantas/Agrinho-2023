@@ -44,7 +44,7 @@ form input:focus, form textarea:focus {
 form textarea {
     vertical-align: auto;
     height: 5rem;
-    transition: all 0.5s;
+    transition: all 0.5s;*/
 
 }
 form textarea:focus {
