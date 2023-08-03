@@ -17,3 +17,7 @@
     text-indent: 30px;
     margin: 1.2rem 1.2rem 1.2rem 1.2rem;
 }
+
+b {
+    font-weight: bold;
+}
