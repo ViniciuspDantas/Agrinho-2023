@@ -26,6 +26,8 @@ b {
 
 
 .mapa {
+  left: 660px;
+  top: 990px;
   position: relative;
   width: 700px;
   height: 300px;
