@@ -83,12 +83,12 @@ form .button:hover {
 .texto{
     font-size: 45px;
     margin-bottom: 30px;
-    color: black;
+    color: rgb(255, 255, 255);
 }
 
 .paragrafo{
     margin-bottom: 50px;
-    color: black;
+    color: rgb(0, 0, 0);
 }
 
 .voltar{
@@ -99,8 +99,3 @@ form .button:hover {
     transition: all 0.5s;
     border-radius: 16px;
 }
-
-.voltar:hover{
-    
-}
-
