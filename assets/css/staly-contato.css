@@ -99,5 +99,5 @@ form .button:hover {
     text-transform: uppercase;
     transition: all 0.5s;
     border-radius: 16px;
-    font-color: white;
+    color: white;
 }
