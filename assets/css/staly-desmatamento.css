@@ -23,6 +23,7 @@ b {
 }
 
 .Mapa-desmatamento{
+  position: absolute;
   left: 30rem;
   top: 35rem;
   height: 480px;
