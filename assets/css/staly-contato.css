@@ -8,7 +8,7 @@ form h1{
 }
 
 form{
-    margin: 0 auto;
+    margin: 0 auto 0 10rem;
     margin-top: 1rem;
     width: 20rem;
     padding: 1rem;
@@ -20,6 +20,7 @@ form{
 
 form div{
     margin-top: 1rem;
+
     
 }
 
@@ -67,9 +68,7 @@ form .button:hover {
 }
 
 
-.infor {
 
-}
 
 /*obrigado*/
 
