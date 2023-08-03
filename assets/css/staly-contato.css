@@ -97,7 +97,7 @@ form .button:hover {
     text-decoration: none;
     text-transform: uppercase;
     transition: all 0.5s;
-
+    border-radius: 16px;
 }
 
 .voltar:hover{
