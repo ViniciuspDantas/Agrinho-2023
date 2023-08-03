@@ -28,5 +28,5 @@ b {
 .mapa {
   left: 660px;
   top: 990px;
-  position: relative;
+  position: absolute;
 }
