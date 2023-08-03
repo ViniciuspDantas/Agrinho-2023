@@ -9,6 +9,11 @@ font-weight: 700;
 line-height: 56px;
 
 }
+
+h2 {
+  font-size: 35px;
+}
+
 .turma p {
   font-size: 30px;
   text-transform: initial;
