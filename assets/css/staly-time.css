@@ -12,6 +12,7 @@ line-height: 56px;
 .turma p {
   font-size: 30px;
   text-transform: initial;
+  font-style: italic;
 }
 
 .turma .aluno {
