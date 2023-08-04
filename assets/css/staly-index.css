@@ -148,7 +148,7 @@ margin-left: 0;
   background-color: black;
 }
 
-@media screen and (max-width:412px){
+@media screen and (min-width:412px){
   .content{
     height:350px;
     width:800px ;
