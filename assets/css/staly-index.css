@@ -149,6 +149,9 @@ margin-left: 0;
 }
 
 @media screen and (max-width:412px){
+  h1{
+    color: #20a6ff;
+  }
   .content{
     height:350px;
     width:800px ;
