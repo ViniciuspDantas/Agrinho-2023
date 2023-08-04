@@ -149,8 +149,14 @@ margin-left: 0;
 }
 
 @media screen and (max-width:412px){
-  h1{
-    color: #20a6ff;
+  #main h1{
+    margin: 1.2rem 1.2rem 1.2rem 1.2rem;
+    font-size: 1.8rem ;
+    font-weight: 700;
+    line-height: 56px;
+    color: #da1212;
+    text-transform: uppercase;
+    text-align: center;
   }
   .content{
     height:350px;
