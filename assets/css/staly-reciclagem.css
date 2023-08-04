@@ -22,3 +22,11 @@
 b {
     font-weight: bold;
 }
+
+.imagens-passando{
+    width: 768px;
+    height: 1024px;
+
+
+    margin: 20rem auto;
+}
