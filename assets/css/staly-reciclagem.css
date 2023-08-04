@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 .texto-intro h2{
     margin: 1.2rem 1.2rem 1.2rem 1.2rem;
     font-size: 50px;
@@ -36,4 +41,8 @@ b {
     list-style: none;
     width: 2065px;
     height: 550px;
+}
+
+.imagens-passando{
+    
 }
