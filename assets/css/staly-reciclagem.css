@@ -1,3 +1,8 @@
+#texto-intro{ 
+    height: 97vh;
+    flex: 1 1 0;
+    }
+
 .texto-intro h2{
     margin: 1.2rem 1.2rem 1.2rem 1.2rem;
     font-size: 50px;
@@ -55,4 +60,32 @@ b {
     80%{left: -1650px;}
     90%{left: -1650px;}
     100%{left: 0px}
+}
+
+@media screen and (max-width:1280px) {
+    #texto-intro{ 
+        height: 118vh;
+        flex: 1 1 0;
+        }
+}
+
+@media screen and (max-width:768px) {
+    #texto-intro{ 
+        height: 104vh;
+        flex: 1 1 0;
+        }
+}
+
+@media screen and (max-width:428px) {
+    #texto-intro{ 
+        height: 130vh;
+        flex: 1 1 0;
+        }
+    .imagens-passando{
+        width: 400px;
+        height: 500px;
+        overflow: hidden;
+        margin: 25px auto;
+        box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.7);
+        }    
 }

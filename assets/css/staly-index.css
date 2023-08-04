@@ -10,7 +10,7 @@
   font-size: 1.8rem ;
   font-weight: 700;
   line-height: 56px;
-  color: #e68d18;
+  color: #000000;
   text-transform: uppercase;
   text-align: center;
 }
@@ -219,11 +219,16 @@ margin-left: 0;
   }
   .content{
     height:25%;
-    width: 100%;
+    width: 98%;
     border-radius: 20px;
     overflow: hidden;
     position: absolute;
-    top: 80%;
+    top: 88%;
+    left: 1%;
     box-shadow: 10px 10px 5px 0px rgb(0, 0, 0, 0.75);
   }
+  main{
+    height: 103vh;
+    flex: 1 1 0;
+    }
 }
