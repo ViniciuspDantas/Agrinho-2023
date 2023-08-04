@@ -148,7 +148,7 @@ margin-left: 0;
   background-color: black;
 }
 
-@media screen and (max-width:412px){
+@media screen and (max-width:915px){
   #main h1{
     margin: 1.2rem 1.2rem 1.2rem 1.2rem;
     font-size: 1.8rem ;
