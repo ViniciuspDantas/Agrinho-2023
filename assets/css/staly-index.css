@@ -10,7 +10,7 @@
   font-size: 1.8rem ;
   font-weight: 700;
   line-height: 56px;
-  color: #181be6;
+  color: #97e618;
   text-transform: uppercase;
   text-align: center;
 }
@@ -57,9 +57,9 @@ background: #ffffff00;
   width: 50%;
   border-radius: 20px;
   overflow: hidden;
-  position: relative;
-
-  margin: 50px auto;
+  position: absolute;
+  top: 33%;
+  left: 25%;
   box-shadow: 10px 10px 5px 0px rgb(0, 0, 0, 0.75);
 }
 
@@ -71,8 +71,8 @@ background: #ffffff00;
 .navegacao{
   position: absolute;
   bottom: 160px;
-  left: 50rem;
-  top: 48rem;
+  left: 45%;
+  top: 80%;
   display: flex;
 }
 
@@ -132,8 +132,8 @@ margin-left: 0;
 .navegacao-auto{
   position: absolute;
   bottom: 160px;
-  left: 50rem;
-  top: 48rem;
+  left: 45%;
+  top: 80%;
   display: flex;
 }
 
