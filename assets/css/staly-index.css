@@ -179,25 +179,25 @@ margin-left: 0;
   .navegacao-auto{
     position: absolute;
     bottom: 160px;
-    left: 36%;
+    left: 39%;
     top: 87%;
     display: flex;
   }
   .navegacao{
     position: absolute;
     bottom: 160px;
-    left: 36%;
+    left: 39%;
     top: 87%;
     display: flex;
   }
   .content{
     height:42%;
-    width: 42%;
+    width: 70%;
     border-radius: 20px;
     overflow: hidden;
     position: absolute;
     top: 50%;
-    left: 25%;
+    left: 15%;
     box-shadow: 10px 10px 5px 0px rgb(0, 0, 0, 0.75);
   }
 }
