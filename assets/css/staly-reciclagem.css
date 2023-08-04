@@ -27,7 +27,6 @@ b {
     width: 413px;
     height: 550px;
     overflow: hidden;
-    outline: 3px solid black;
     margin: 50px auto;
     box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.7);
 }
@@ -46,14 +45,14 @@ b {
 
 @keyframes slide {
     0%{left: 0px;}
-
+    10%{left: 0px;}
     20%{left: -400px;}
-
+    30%{left: -400px;}
     40%{left: -800px;}
-
+    50%{left: -800px;}
     60%{left: -1200px;}
-
+    70%{left: -1200px;}
     80%{left: -1600px;}
-
+    90%{left: -1600px;}
     100%{left: 0px}
 }
