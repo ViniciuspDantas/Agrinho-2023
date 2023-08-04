@@ -47,9 +47,13 @@ b {
 @keyframes slide {
     0%{left: 0px;}
 
-    30%{left: -400px;}
+    20%{left: -400px;}
 
-    60%{left: -800px;}
+    40%{left: -800px;}
 
-    
+    60%{left: -1200px;}
+
+    80%{left: -1600px;}
+
+    100%{left: 0px}
 }
