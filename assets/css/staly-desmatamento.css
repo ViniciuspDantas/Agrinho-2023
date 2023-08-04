@@ -23,11 +23,40 @@
   font-weight: bold;
 }
 
+.titulo {
+  margin: 1.2rem 1.2rem 1.2rem 1.2rem;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 56px;
+  color: #090909;
+  text-transform: initial;
+  text-align: center;
+  font-style: oblique;
+  letter-spacing: 2px;
+}
+
+.Subtitulo {
+  color: #494949;
+  font-size: 1rem ;
+  text-align: justify;
+  text-indent: 30px;
+  margin: 1.2rem 1.2rem 1.2rem 1.2rem;
+  line-height: 1.25rem;
+}
+
+.fonte{
+  color: #494949;
+  text-align: center;
+  font-size: 1rem;
+  text-align: justify;
+  margin: 1.2rem 1.2rem 1.2rem 1.2rem;
+}
+
 .Mapa-desmatamento{
   position: absolute;
   left: 40rem;
   top: 22rem;
   height: 480px;
   width: 460px;
-  display: flex;
+  display: block;
 }
