@@ -24,7 +24,7 @@ b {
 }
 
 .imagens-passando{
-    position: absolute;
+    position: relative;
     width: 413px;
     height: 550px;
     overflow: hidden;
