@@ -10,7 +10,7 @@
   font-size: 1.8rem ;
   font-weight: 700;
   line-height: 56px;
-  color: #e61818;
+  color: #181be6;
   text-transform: uppercase;
   text-align: center;
 }
@@ -57,7 +57,7 @@ background: #ffffff00;
   width: 50%;
   border-radius: 20px;
   overflow: hidden;
-  position: absolute;
+  position: relative;
 
   margin: 50px auto;
   box-shadow: 10px 10px 5px 0px rgb(0, 0, 0, 0.75);
