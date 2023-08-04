@@ -148,7 +148,7 @@ margin-left: 0;
   background-color: black;
 }
 
-@media screen and (max-width:412px){
+@media screen and (max-width:915px){
   h1{
     color: #20a6ff;
   }
