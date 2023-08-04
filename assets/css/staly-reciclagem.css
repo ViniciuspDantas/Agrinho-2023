@@ -24,8 +24,8 @@ b {
 }
 
 .imagens-passando{
-    width: 768px;
-    height: 1024px;
+    width: 413px;
+    height: 550px;
     overflow: hidden;
 
     margin: 500px auto;
@@ -34,6 +34,6 @@ b {
 .imagens-passando ul{
     display: flex;
     list-style: none;
-    width: 3840px;
-    height: 1024px;
+    width: 2065px;
+    height: 550px;
 }
