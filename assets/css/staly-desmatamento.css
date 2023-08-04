@@ -28,7 +28,7 @@
   font-size: 30px;
   font-weight: 700;
   line-height: 56px;
-  color: hsl(241, 100%, 25%);
+  color: black;
   text-transform: initial;
   text-align: center;
   font-style: oblique;
@@ -55,7 +55,7 @@
 .Mapa-desmatamento{
   position: absolute;
   left: 40rem;
-  top: 22rem;
+  top: 25rem;
   height: 480px;
   width: 460px;
   display: block;
