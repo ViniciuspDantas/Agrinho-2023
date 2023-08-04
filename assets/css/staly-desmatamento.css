@@ -24,13 +24,14 @@
 }
 
 .Titulo {
-
+  margin: 1.2rem 1.2rem 1.2rem 1.2rem;
   font-size: 30px;
   font-weight: 700;
-
-  color: #da2b2b;
+  line-height: 56px;
+  color: #090909;
   text-transform: initial;
   text-align: center;
+  position: absolute;
   font-style: oblique;
   letter-spacing: 2px;
 }
