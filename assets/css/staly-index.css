@@ -53,7 +53,7 @@ background: #ffffff00;
  
 }
 .content{
-  height:250px;
+  height:auto;
   width:700px ;
   border-radius: 20px;
   overflow: hidden;
