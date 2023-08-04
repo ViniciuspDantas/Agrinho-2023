@@ -148,10 +148,10 @@ margin-left: 0;
   background-color: black;
 }
 
-@media screen and (max-width:516px){
+@media screen and (min-width:479px){
   .content{
-    height:230px;
-    width:350px ;
+    height:100%;
+    width:auto ;
     border-radius: 20px;
     overflow: hidden;
     position: absolute;
