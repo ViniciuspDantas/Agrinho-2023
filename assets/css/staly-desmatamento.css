@@ -23,12 +23,12 @@
   font-weight: bold;
 }
 
-.Titulo {
+.Nome {
   margin: 1.2rem 1.2rem 1.2rem 1.2rem;
   font-size: 30px;
   font-weight: 700;
   line-height: 56px;
-  color: hsl(0, 81%, 51%);
+  color: hsl(241, 100%, 25%);
   text-transform: initial;
   text-align: center;
   font-style: oblique;
