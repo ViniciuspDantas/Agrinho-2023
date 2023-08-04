@@ -26,10 +26,9 @@ b {
 .imagens-passando{
     width: 768px;
     height: 1024px;
+    overflow: hidden;
 
-
-    top: 990px;
-    left: 660px;
+    margin: 500px auto;
 }
 
 .imagens-passando ul{
