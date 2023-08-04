@@ -25,7 +25,7 @@
 
 #Nome {
   margin: 1.2rem 1.2rem 1.2rem 1.2rem;
-  font-size: 30px;
+  font-size: 35px;
   font-weight: 700;
   line-height: 56px;
   color: black;
@@ -53,9 +53,8 @@
 }
 
 .Mapa-desmatamento{
-  position: absolute;
-  left: 40rem;
-  top: 25rem;
+  position: relative;
+  margin: 0 auto;
   height: 480px;
   width: 460px;
   display: block;
