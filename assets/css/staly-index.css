@@ -150,8 +150,8 @@ margin-left: 0;
 
 @media screen and (max-width:412px){
   .content{
-    height:100%;
-    width:auto ;
+    height:350px;
+    width:800px ;
     border-radius: 20px;
     overflow: hidden;
     position: absolute;
