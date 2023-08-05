@@ -124,6 +124,7 @@ form .button:hover {
 }
 
 @media screen and (max-width:1280px) {
+    /*Width:1280px Height:800px*/
     #main{ 
     height: 108vh;
     flex: 1 1 0;
@@ -131,6 +132,7 @@ form .button:hover {
 }
 
 @media screen and (max-width:768px) {
+    /*Width:768px Height:1024px*/
     #main{ 
     height: 91vh;
     flex: 1 1 0;
@@ -138,6 +140,7 @@ form .button:hover {
 }
 
 @media screen and (max-width:428px) {
+    /*Width:428px Height:926px*/
     #main{ 
     height: 97vh;
     flex: 1 1 0;

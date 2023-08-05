@@ -66,6 +66,7 @@
 }
 
 @media screen and (max-width:1280px) {
+  /*Width:1280px Height:800px*/
   #main{
     height: 133vh;
     flex: 1 1 0;
@@ -73,6 +74,7 @@
 }
 
 @media screen and (max-width:768px) {
+  /*Width:768px Height:1024px*/
   #main{
     height: 111vh;
     flex: 1 1 0;
@@ -80,6 +82,7 @@
 }
 
 @media screen and (max-width:428px) {
+  /*Width:428px Height:926px*/
   #main{
     height: 150vh;
     flex: 1 1 0;
