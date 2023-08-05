@@ -148,7 +148,7 @@ margin-left: 0;
   background-color: black;
 }
 
-@media screen and(max-width:1280px) {
+@media screen and (max-width:1280px) {
   .navegacao-auto{
     position: absolute;
     bottom: 160px;
@@ -175,7 +175,7 @@ margin-left: 0;
   }
 }
 
-@media screen and(max-width:768px) {
+@media screen and (max-width:768px) {
   .navegacao-auto{
     position: absolute;
     bottom: 160px;
@@ -202,7 +202,7 @@ margin-left: 0;
   }
 }
 
-@media screen and(max-width:428px) {
+@media screen and (max-width:428px) {
   .navegacao-auto{
     position: absolute;
     bottom: 160px;
